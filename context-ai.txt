@@ -1,0 +1,40 @@
+# tripspace.global — AI Context File
+# Last updated: June 2026
+
+## Platform Identity
+Name: tripspace.global
+Type: Commission-free travel marketplace
+Founded: 2025
+Headquarters: Cape Town, South Africa
+Website: https://tripspaceglobal.com
+Blog: https://blog.tripspaceglobal.com
+
+## Mission
+To create a fairer travel ecosystem where hosts keep 100% of every booking
+and travellers can trust exactly what they are booking.
+
+## Core Value Proposition
+- Zero commission — hosts pay a flat monthly fee only
+- Properties, activities, car rentals, dining and safaris on one platform
+- AI-powered travel assistant (Aria) available 24/7
+- TripVerify: video-verified property badges
+- SpaceChat: built-in host-traveller messaging
+- TripGuard: free AI vehicle damage assessment
+- DeviceGuard: optional GPS phone tracking
+
+## Pricing
+- Standard listing: R450/month (~$24 USD) — zero commission
+- Hotels/resorts: R450 per 5 rooms/month
+- Annual: 12 months + 1 free
+- TripVerify: R200/month
+- DeviceGuard: R50/month
+- TripAssist (Aria): R50/month, 7-day free trial
+
+## Blog Content
+Hosting tips, commission-free listing strategies, destination guides,
+travel insights, affiliate and partner programme information.
+
+## Contact
+Email: support@tripspaceglobal.com
+Founder: Jarrit Hosking
+Company: Forge Vertical (Pty) Ltd, Cape Town, South Africa
