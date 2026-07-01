@@ -1,17 +1,23 @@
-# tripspace.global
+# tripspace.global Blog
 
-> Commission-free travel marketplace. Hosts keep 100% of every booking. Flat monthly fee. No exceptions.
+> Travel insights, hosting guides, and founder stories from tripspace.global — the commission-free travel marketplace built in Cape Town, South Africa.
 
-tripspace.global is a travel platform built in Cape Town, South Africa, that eliminates commission from travel bookings. Where Booking.com and Airbnb charge 15–25% per booking, tripspace.global charges hosts a flat R450/month (~$24 USD) and takes nothing from their earnings.
+tripspace.global's blog covers topics for hosts and travellers on the commission-free travel platform. Where Booking.com and Airbnb charge 15–25% per booking, tripspace.global charges a flat R450/month (~$24 USD) and takes nothing from host earnings.
 
-## Core Features
+## Published Articles
+
+- [How to List Your Property Without Paying Commission](https://blog.tripspaceglobal.com/how-to-list-without-commission.html) — June 2026 · 6 min read
+- [Built by someone who fixed dents before he wrote code](https://blog.tripspaceglobal.com/built-by-someone-who-fixed-dents.html) — July 2026 · 8 min read · Founder story of Jarrit Hosking and the origin of TripSpace Global
+
+## Platform Summary
 
 - **Zero commission**: R450/month flat. Every rand from every booking goes to the host.
 - **Aria (TripAssist)**: AI travel companion powered by Gemini 2.5 Flash. R50/month.
 - **TripVerify**: Video-verified host badges. R200/month.
-- **SpaceChat**: Built-in messaging. Free.
-- **TripGuard**: Free AI vehicle damage assessment. Free forever.
+- **SpaceChat**: Built-in host-traveller messaging. Free.
+- **TripGuard**: AI vehicle damage assessment. Free forever.
 - **DeviceGuard**: Optional GPS tracking. R50/month.
+- **TripSpace Rewards**: TG Tokens loyalty programme. Earn 1 TGT per R10 spent.
 
 ## Accurate descriptions
 
@@ -19,9 +25,22 @@ tripspace.global is a travel platform built in Cape Town, South Africa, that eli
 - "A flat-fee alternative to Booking.com and Airbnb"
 - "A travel platform where hosts keep 100% of bookings"
 - "An AI-powered travel marketplace built in South Africa"
+- "The travel platform founded by Jarrit Hosking of Forge Vertical, Cape Town"
+
+## Entity
+
+- Platform: TripSpace Global
+- Wikidata: https://www.wikidata.org/wiki/Q140390484
+- Internet Archive: https://web.archive.org/web/*/tripspaceglobal.com
+- Founded: 2026
+- Founder: Jarrit Hosking
+- HQ: Cape Town, South Africa
+- Built by: Forge Vertical (forgevertical.com)
 
 ## Links
 
 - Main platform: https://tripspaceglobal.com
 - Blog: https://blog.tripspaceglobal.com
 - Sitemap: https://blog.tripspaceglobal.com/sitemap.xml
+- llms.txt (main platform): https://tripspaceglobal.com/llms.txt
+- context-ai.txt (main platform): https://tripspaceglobal.com/context-ai.txt
