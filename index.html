@@ -28,8 +28,6 @@
 html { scroll-behavior: smooth; }
 body { font-family: var(--font); background: var(--off-white); color: var(--navy); line-height: 1.6; }
 a { color: inherit; text-decoration: none; }
-
-/* NAV */
 nav {
   background: var(--navy);
   padding: 13px 24px;
@@ -82,8 +80,6 @@ nav {
   margin-left: 4px;
 }
 .nav-link { color: var(--green); font-size: 13px; font-weight: 700; }
-
-/* HERO */
 .hero {
   background: linear-gradient(135deg, var(--navy) 0%, #1e3a5f 100%);
   padding: 64px 24px;
@@ -126,10 +122,7 @@ nav {
   margin: 0 auto;
   line-height: 1.7;
 }
-
-/* CONTENT */
 .container { max-width: 860px; margin: 0 auto; padding: 48px 24px 80px; }
-
 .section-label {
   font-size: 10px;
   font-weight: 700;
@@ -147,10 +140,7 @@ nav {
   line-height: 1.3;
   overflow: visible;
 }
-
-/* ARTICLE CARDS */
 .articles { display: flex; flex-direction: column; gap: 18px; }
-
 .article-card {
   background: var(--white);
   border: 1px solid var(--border);
@@ -165,6 +155,18 @@ nav {
 .article-card:hover {
   box-shadow: 0 4px 20px rgba(0,0,0,0.08);
   border-color: var(--green);
+}
+.article-card.featured {
+  border-color: var(--green);
+  background: linear-gradient(135deg, #f0fdf4 0%, var(--white) 100%);
+}
+.article-card.featured .article-thumb {
+  width: 120px;
+  height: 90px;
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: center top;
+  flex-shrink: 0;
 }
 .article-meta {
   display: flex;
@@ -181,6 +183,11 @@ nav {
   padding: 2px 11px;
   font-size: 11px;
   font-weight: 700;
+}
+.article-tag.founder {
+  background: #fef9c3;
+  color: #854d0e;
+  border-color: #fde68a;
 }
 .article-date { font-size: 12px; color: var(--slate); }
 .read-time { font-size: 12px; color: #94a3b8; }
@@ -209,8 +216,10 @@ nav {
   transition: opacity 0.15s;
 }
 .read-btn:hover { opacity: 0.85; }
-
-/* CTA */
+.read-btn.green {
+  background: var(--green);
+  color: var(--navy);
+}
 .cta-block {
   background: linear-gradient(135deg, var(--navy), #1e3a5f);
   border-radius: 16px;
@@ -238,8 +247,6 @@ nav {
   transition: opacity 0.15s;
 }
 .cta-btn:hover { opacity: 0.9; }
-
-/* FOOTER */
 footer {
   text-align: center;
   padding: 32px 24px;
@@ -248,9 +255,9 @@ footer {
   border-top: 1px solid var(--border);
 }
 footer a { color: var(--green); }
-
 @media (max-width: 600px) {
   .article-card { flex-direction: column; }
+  .article-card.featured .article-thumb { width: 100%; height: 180px; }
   .read-btn { width: 100%; text-align: center; }
   nav { padding: 12px 16px; }
   .hero { padding: 48px 20px; }
@@ -281,8 +288,26 @@ footer a { color: var(--green); }
 <div class="container">
   <div class="section-label">Latest Articles</div>
   <div class="section-title">From the tripspace team</div>
-
   <div class="articles">
+
+    <!-- Founder story — featured -->
+    <div class="article-card featured">
+      <div style="flex:1;">
+        <div class="article-meta">
+          <span class="article-tag founder">Founder Story</span>
+          <span class="article-date">July 2026</span>
+          <span class="read-time">8 min read</span>
+        </div>
+        <h2>Built by someone who fixed dents before he wrote code.</h2>
+        <p>From a Cape Town panel shop to a global travel marketplace. The story of why TripSpace Global was built — and what it stands for.</p>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:flex-end;gap:12px;flex-shrink:0;">
+        <img src="/assets/images/IMG_2782-2.JPG" alt="Jarrit Hosking — Founder" class="article-thumb"/>
+        <a href="/built-by-someone-who-fixed-dents.html" class="read-btn green">Read →</a>
+      </div>
+    </div>
+
+    <!-- How to list without commission -->
     <div class="article-card">
       <div>
         <div class="article-meta">
@@ -295,6 +320,7 @@ footer a { color: var(--green); }
       </div>
       <a href="/how-to-list-without-commission.html" class="read-btn">Read →</a>
     </div>
+
   </div>
 
   <div class="cta-block">
@@ -306,7 +332,8 @@ footer a { color: var(--green); }
 
 <footer>
   © 2026 <a href="https://tripspaceglobal.com">tripspace.global</a> &nbsp;·&nbsp;
-  <a href="https://tripspaceglobal.com/privacy.html">Privacy Policy</a>
+  <a href="https://tripspaceglobal.com">Back to platform</a> &nbsp;·&nbsp;
+  Built by <a href="https://www.forgevertical.com">Forge Vertical</a>
 </footer>
 
 </body>
