@@ -1,25 +1,117 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://blog.tripspaceglobal.com/sitemap.xml
 
+# ── AI CRAWLERS — explicitly welcome ──────────────────────────────────────
+
+# OpenAI
 User-agent: GPTBot
 Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
 
+# Anthropic (Claude)
 User-agent: ClaudeBot
 Allow: /
-
-User-agent: Google-Extended
+User-agent: Claude-Web
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
 Allow: /
 
+# Google AI (Gemini, AI Overviews)
+User-agent: Google-Extended
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Google-CloudVertexBot
+Allow: /
+
+# Perplexity
 User-agent: PerplexityBot
 Allow: /
 
+# Meta AI (Llama)
+User-agent: FacebookBot
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# Apple (Siri, Apple Intelligence)
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon (Alexa, Bedrock)
+User-agent: Amazonbot
+Allow: /
+
+# Microsoft (Copilot, Bing Chat)
+User-agent: Bingbot
+Allow: /
+User-agent: msnbot
+Allow: /
+User-agent: BingPreview
+Allow: /
+
+# xAI (Grok)
+User-agent: xAI-Bot
+Allow: /
+
+# ByteDance / TikTok
 User-agent: Bytespider
 Allow: /
 
+# Common Crawl (used by many LLMs for training)
 User-agent: CCBot
 Allow: /
 
-User-agent: Amazonbot
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# AI2 (Allen Institute)
+User-agent: allenai-bot
+Allow: /
+
+# Diffbot (AI knowledge graphs)
+User-agent: Diffbot
+Allow: /
+
+# Exa AI
+User-agent: ExaBot
+Allow: /
+
+# Mistral
+User-agent: MistralBot
+Allow: /
+
+# Hugging Face
+User-agent: HuggingFaceBot
+Allow: /
+
+# Huawei
+User-agent: PetalBot
+Allow: /
+
+# DuckDuckGo AI
+User-agent: DuckAssistBot
+Allow: /
+
+# Internet Archive
+User-agent: archive.org_bot
+Allow: /
+
+# Scrapy / generic AI data pipelines
+User-agent: Scrapy
 Allow: /
