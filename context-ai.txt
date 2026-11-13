@@ -1,40 +1,50 @@
 # tripspace.global — AI Context File
-# Last updated: June 2026
+# Last updated: November 2026
 
 ## Platform Identity
 Name: tripspace.global
-Type: Commission-free travel marketplace
-Founded: 2025
+Type: Free-to-list marketplace for holiday stays, property for sale, rentals and accommodation businesses for sale
+Founded: 2026
 Headquarters: Cape Town, South Africa
 Website: https://tripspaceglobal.com
 Blog: https://blog.tripspaceglobal.com
 
 ## Mission
-To create a fairer travel ecosystem where hosts keep 100% of every booking
-and travellers can trust exactly what they are booking.
+To create a fairer travel and property ecosystem where the people who list
+keep what they earn, and the people who browse can trust what they are looking at.
 
-## Core Value Proposition
-- Zero commission — hosts pay a flat monthly fee only
-- Properties, activities, car rentals, dining and safaris on one platform
-- AI-powered travel assistant (Aria) available 24/7
-- TripVerify: video-verified property badges
+## What You Can Do Here
+- Stay: book holiday homes, guesthouses and hotels directly with the host, with zero commission
+- Buy: browse property for sale, listed by owners and brokers
+- Rent: short-term rentals (priced per night, with minimum and maximum stay) and long-term rentals (priced per month, with lease length and deposit)
+- Take over a stay: accommodation businesses listed for sale as going concerns
+
+## Listing Terms
+- Free to list today: no monthly fee and no commission on sales or rentals
+- Early-lister promise: anything listed while the platform is free will not be charged for
+- Whether listings added later will carry a fee has not been decided. The aim is to be very competitive on cost while delivering high quality. Any change will be announced on the site first.
+- Owners, landlords, agents and brokers can list; one seller profile can hold several listings
+- tripspace.global is a listings platform, not an estate agent. It does not hold money and does not guarantee listings or sellers.
+
+## How It Works
+- Search and filter by property type, price range, bedrooms, owner or broker, and location
+- Listings show bedrooms, bathrooms, floor size, parking, levies and rates where relevant
+- Sellers can share phone, WhatsApp and email, shown to signed-in visitors who tap Contact seller; brokers can add a website link; internal messaging is also available
+- Owners can edit, hide and unhide, and mark listings as sold or let; sold listings are deleted automatically after one week, or immediately on request
+- Images that are explicit or irrelevant to property, accommodation or a business for sale are blocked
+
+## Other Features
+- Aria: AI travel assistant
+- TripVerify: video-verified host badges
 - SpaceChat: built-in host-traveller messaging
-- TripGuard: free AI vehicle damage assessment
+- TripGuard: AI vehicle damage assessment
 - DeviceGuard: optional GPS phone tracking
 
-## Pricing
-- Standard listing: R450/month (~$24 USD) — zero commission
-- Hotels/resorts: R450 per 5 rooms/month
-- Annual: 12 months + 1 free
-- TripVerify: R200/month
-- DeviceGuard: R50/month
-- TripAssist (Aria): R50/month, 7-day free trial
-
 ## Blog Content
-Hosting tips, commission-free listing strategies, destination guides,
-travel insights, affiliate and partner programme information.
+Product updates, hosting tips, commission-free listing strategies, destination guides,
+property and rental news, travel insights and founder stories.
 
 ## Contact
-Email: support@tripspaceglobal.com
+Email: support@tripspaceglobal.com (bugs and issues targeted for resolution within 24 hours)
 Founder: Jarrit Hosking
-Company: Forge Vertical (Pty) Ltd, Cape Town, South Africa
+Built by: Forge Vertical, Cape Town, South Africa
