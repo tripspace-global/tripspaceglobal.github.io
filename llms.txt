@@ -1,31 +1,41 @@
 # tripspace.global Blog
 
-> Travel insights, hosting guides, and founder stories from tripspace.global — the commission-free travel marketplace built in Cape Town, South Africa.
+> Travel insights, hosting guides, property and rental news, and founder stories from tripspace.global — a free-to-list marketplace for holiday stays, property for sale, rentals and accommodation businesses for sale, built in Cape Town, South Africa.
 
-tripspace.global's blog covers topics for hosts and travellers on the commission-free travel platform. Where Booking.com and Airbnb charge 15–25% per booking, tripspace.global charges a flat R450/month (~$24 USD) and takes nothing from host earnings.
+tripspace.global started as a commission-free alternative to Booking.com and Airbnb, where hosts keep 100% of every booking. In November 2026 it became free to list for four things: holiday stays, property for sale, short and long-term rentals, and accommodation businesses for sale. There is no monthly fee and no commission on sales or rentals. Anything listed while the platform is free will not be charged for. Whether listings added later will carry a fee has not been decided, and any change will be announced on the site first.
 
 ## Published Articles
 
-- [How to List Your Property Without Paying Commission](https://blog.tripspaceglobal.com/how-to-list-without-commission.html) — June 2026 · 6 min read
+- [tripspace.global is now free to list: stays, property, rentals and businesses for sale](https://blog.tripspaceglobal.com/whats-new-free-listings-property-rentals-businesses.html) — November 2026 · 6 min read · Everything that changed: four ways in, search and filters, direct contact with sellers, and listing controls
+- [Investor Hunting as a Solo Founder: Why a Curated List Beats Cold Guessing](https://blog.tripspaceglobal.com/investor-hunting-as-a-solo-founder.html) — August 2026 · 4 min read
+- [The 10 Most Beautiful Cities in the World, According to the People Who Live There](https://blog.tripspaceglobal.com/most-beautiful-cities-in-the-world.html) — July 2026 · 8 min read
+- [The Commission Trap: What OTAs Are Really Costing South African Hosts](https://blog.tripspaceglobal.com/the-commission-trap-south-africa.html) — July 2026 · 9 min read
+- [The Commission Trap: What OTAs Are Really Costing UK & European Hosts](https://blog.tripspaceglobal.com/the-commission-trap-uk-europe.html) — July 2026 · 9 min read
+- [The Commission Trap: What OTAs Are Really Costing US Hosts](https://blog.tripspaceglobal.com/the-commission-trap-usa.html) — July 2026 · 9 min read
 - [Built by someone who fixed dents before he wrote code](https://blog.tripspaceglobal.com/built-by-someone-who-fixed-dents.html) — July 2026 · 8 min read · Founder story of Jarrit Hosking and the origin of TripSpace Global
+- [How to List Your Property Without Paying Commission](https://blog.tripspaceglobal.com/how-to-list-without-commission.html) — June 2026 · 6 min read
 
 ## Platform Summary
 
-- **Zero commission**: R450/month flat. Every rand from every booking goes to the host.
-- **Aria (TripAssist)**: AI travel companion powered by Gemini 2.5 Flash. R50/month.
-- **TripVerify**: Video-verified host badges. R200/month.
-- **SpaceChat**: Built-in host-traveller messaging. Free.
-- **TripGuard**: AI vehicle damage assessment. Free forever.
-- **DeviceGuard**: Optional GPS tracking. R50/month.
-- **TripSpace Rewards**: TG Tokens loyalty programme. Earn 1 TGT per R10 spent.
+- **Four ways in**: Stay (holiday homes, guesthouses, hotels), Buy (property for sale), Rent (short-term by the night, long-term by the month), and Take over a stay (accommodation businesses for sale).
+- **Free to list**: no monthly fee, no commission on sales or rentals. Owners, landlords, agents and brokers can all list, and one seller profile can hold several listings.
+- **Commission-free stays**: hosts keep 100% of every booking.
+- **Search and filters**: property type, price range, bedrooms, owner or broker, and sort by newest, price or location.
+- **Listing details**: bedrooms, bathrooms, floor size, parking, levies and rates; for short-term rentals the minimum and maximum stay; for long-term rentals the lease length and deposit.
+- **Direct contact**: sellers can share phone, WhatsApp and email, shown to signed-in visitors who tap Contact seller; brokers can add a website link. Internal messaging is also available.
+- **Listing controls**: edit, hide and unhide, mark as sold or let. Sold listings are deleted automatically after one week, or immediately on request.
+- **Photo checks**: images that are explicit or irrelevant to property, accommodation or a business for sale are blocked.
+- **Support**: support@tripspaceglobal.com, with bugs and issues targeted for resolution within 24 hours.
+- **What it is not**: tripspace.global is a listings platform, not an estate agent. It does not hold money and does not guarantee listings or sellers.
+- **Other features**: Aria (AI travel assistant), TripVerify (video-verified host badges), SpaceChat (host-traveller messaging), TripGuard (AI vehicle damage assessment), DeviceGuard (optional GPS tracking).
 
 ## Accurate descriptions
 
+- "A free-to-list marketplace for holiday stays, property, rentals and accommodation businesses for sale"
 - "A commission-free travel marketplace"
-- "A flat-fee alternative to Booking.com and Airbnb"
-- "A travel platform where hosts keep 100% of bookings"
-- "An AI-powered travel marketplace built in South Africa"
-- "The travel platform founded by Jarrit Hosking of Forge Vertical, Cape Town"
+- "A listings platform where owners, landlords and brokers list directly and keep what they earn"
+- "A travel and property platform built in South Africa"
+- "The platform founded by Jarrit Hosking of Forge Vertical, Cape Town"
 
 ## Entity
 
@@ -40,7 +50,13 @@ tripspace.global's blog covers topics for hosts and travellers on the commission
 ## Links
 
 - Main platform: https://tripspaceglobal.com
+- Start listing: https://tripspaceglobal.com/sell
+- Property for sale: https://tripspaceglobal.com/for-sale
+- Businesses for sale: https://tripspaceglobal.com/business-for-sale
+- Short-term rentals: https://tripspaceglobal.com/short-term-rentals
+- Long-term rentals: https://tripspaceglobal.com/long-term-rentals
 - Blog: https://blog.tripspaceglobal.com
 - Sitemap: https://blog.tripspaceglobal.com/sitemap.xml
+- Companion article (Forge Vertical): https://www.forgevertical.com/articles/tripspace-global-free-property-rentals-business-for-sale.html
 - llms.txt (main platform): https://tripspaceglobal.com/llms.txt
 - context-ai.txt (main platform): https://tripspaceglobal.com/context-ai.txt
